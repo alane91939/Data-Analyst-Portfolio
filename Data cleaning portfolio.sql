@@ -3,7 +3,7 @@ from [Portfolio Project]..NashvilleHousing
 
 
 
---1. Intro select (not always practical but fione for smaller data sets)
+--1. Intro select (not always practical but fine for smaller data sets)
 SELECT *
 FROM [Portfolio Project]..NashvilleHousing
 
