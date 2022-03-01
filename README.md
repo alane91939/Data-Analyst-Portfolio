@@ -1,7 +1,7 @@
 # Data-Analyst-Portfolio
 
 Hello!
-Im Alin and this profile is meant to serve as an insight into my skill progression for moving into Data Analytics.
+Im Alan and this profile is meant to serve as an insight into my skill progression for moving into Data Analytics.
 So far you see projects such as :
 Correlation Movie Project
 
